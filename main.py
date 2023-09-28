@@ -1,4 +1,5 @@
 print("Welcome to Isaac's Chatbot!\n")
+print("Hey there")
 
 user_name = input("What is your name? ")
 user_age = input("How old are you? ")
